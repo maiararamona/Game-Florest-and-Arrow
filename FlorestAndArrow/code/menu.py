@@ -4,7 +4,7 @@
 
 class Menu:
     def __init__(self, window):
-        self.window = window
+        window = window
 
     def run(self, ):
         pass
